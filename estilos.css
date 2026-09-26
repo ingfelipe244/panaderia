@@ -3,6 +3,11 @@
     margin:0px;
     padding: 0px;
 }
+.fontdiner-swanky-regular {
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 /*generar estilos por medio de una clase*/
 .imagenCl
 {
@@ -47,11 +52,11 @@
     width: 400px;
     height: 250px;
     
-    padding: 30px;
     padding-top: 40px;
+    margin: 50px;
 }
 #recetas
 {
     display: flex;
-    justify-content: space-evenly;
+    
 }
