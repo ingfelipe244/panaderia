@@ -101,7 +101,7 @@
 #cajaFormulario
 {
     width: 400px;
-    height: 700px;
+    height: 750px;
     background-color: #BB704D;
     padding: 35px;
     border-radius: 10px;
@@ -114,4 +114,39 @@
     border-radius: 10px;
     margin-top: 7px;
     margin-bottom: 7px;
+}
+#botonRegistro
+{
+    width: 200px;
+    font-size: 30px ;
+    margin-left: 100px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px brown;
+    padding: 10px;
+}
+#productos_novedosos
+{
+    display: flex;
+    background-color: #F7B873;
+}
+
+article
+{
+    padding: 100px;
+}
+aside
+{
+    padding: 100px;
+}
+footer
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #ffb998;
+}
+#iconowha
+{
+    width: 50px;
+    height: 50px;
 }
