@@ -58,5 +58,35 @@
 #recetas
 {
     display: flex;
+    background: -webkit-linear-gradient(#F7B873,#FDAE62);
+}
+#textoppal
+{
+    
+  
+    height: 500px;
+    background: -webkit-linear-gradient(#FDAE62,#F7B873);
+}
+#textoCentrado
+{
+    width: 70%;
+}
+#textoCentradoParrafo
+{
+    width: 90%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#sub1 +p
+{
+    color: red;
+}
+
+#textoCentrado h2
+{
+    
+    font-size: 100px;
+    text-align: center;
     
 }
